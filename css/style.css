@@ -194,8 +194,13 @@
   }
 
   #testimonials .carousel-img img{
-    height: 150px;
-    width: 150px;
+    height: 125px;
+    width: 125px;
+  }
+
+  #testimonials .carousel-img{
+    height: 125px;
+    width: 125px;
   }
 
   #testimonials .carousel-caption p {
@@ -236,8 +241,13 @@
   }
 
   #testimonials .carousel-img img{
-    height: 150px;
-    width: 150px;
+    height: 125px;
+    width: 125px;
+  }
+
+  #testimonials .carousel-img{
+    height: 125px;
+    width: 125px;
   }
 
   #testimonials .carousel-caption h5{
