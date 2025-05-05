@@ -193,11 +193,6 @@
     font-size: 42px;
   }
 
-  #testimonials .carousel-img img{
-    height: 125px;
-    width: 125px;
-  }
-
   #testimonials .carousel-img{
     height: 125px;
     width: 125px;
@@ -238,11 +233,6 @@
 
   #events .col-12{
     margin-bottom: 2.5rem;
-  }
-
-  #testimonials .carousel-img img{
-    height: 125px;
-    width: 125px;
   }
 
   #testimonials .carousel-img{
