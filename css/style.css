@@ -193,9 +193,9 @@
     font-size: 42px;
   }
 
-  #testimonials .carousel-img{
-    height: 150px !important;
-    width: 150px !important;
+  #testimonials .carousel-img img{
+    height: 150px;
+    width: 150px;
   }
 
   #testimonials .carousel-caption p {
@@ -235,9 +235,9 @@
     margin-bottom: 2.5rem;
   }
 
-  #testimonials .carousel-img{
-    height: 150px !important;
-    width: 150px !important;
+  #testimonials .carousel-img img{
+    height: 150px;
+    width: 150px;
   }
 
   #testimonials .carousel-caption h5{
